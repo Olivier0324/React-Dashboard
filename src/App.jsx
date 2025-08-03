@@ -10,6 +10,8 @@ function App() {
         <SideBar />
         <MainContent/>
       </Layout>
+
+      <h1 className='text-center text-blue-900'>Hello world</h1>
     </div>
   )
 }
